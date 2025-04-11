@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 765px;
+  min-height: 621px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -90,10 +90,12 @@
     font-size: 5.3125rem;
   }
 }.u-section-2 .u-sheet-1 {
+  min-height: 209px;
+}.u-section-3 .u-sheet-1 {
   min-height: 134px;
 }
 
-.u-section-2 .u-image-1 {
+.u-section-3 .u-image-1 {
   width: 84px;
   height: 84px;
   margin: 25px auto;
