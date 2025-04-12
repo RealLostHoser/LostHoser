@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 400px;
+  min-height: 838px;
 }
 
 .u-section-1 .u-text-1 {
@@ -20,7 +20,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 385px;
+    min-height: 823px;
   }
 
   .u-section-1 .u-image-1 {
@@ -31,7 +31,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 285px;
+    min-height: 723px;
   }
 
   .u-section-1 .u-image-1 {
@@ -42,5 +42,5 @@
   font-family: 'ThinPixel7-1Yq0';
   font-style: normal;
   font-weight: 400;
-  src: url(fonts/ThinPixel7-1Yq0.ttf);
+  src: url(../fonts/ThinPixel7-1Yq0.ttf);
 }
