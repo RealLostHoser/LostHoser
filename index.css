@@ -38,8 +38,19 @@
   font-family: ThinPixel7-1Yq0;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 60px;
+  margin-bottom: 0;
   font-size: 6rem;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: ThinPixel7-1Yq0;
+  font-size: 6rem;
+  margin: 20px auto 60px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -67,6 +78,10 @@
   }
 
   .u-section-1 .u-text-3 {
+    font-size: 5rem;
+  }
+
+  .u-section-1 .u-text-4 {
     font-size: 5rem;
   }
 }
@@ -100,6 +115,10 @@
   .u-section-1 .u-text-3 {
     font-size: 4rem;
   }
+
+  .u-section-1 .u-text-4 {
+    font-size: 4rem;
+  }
 }
 
 @media (max-width: 575px) {
@@ -117,6 +136,10 @@
   }
 
   .u-section-1 .u-text-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-4 {
     font-size: 3rem;
   }
 }.u-section-2 .u-sheet-1 {
