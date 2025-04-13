@@ -15,7 +15,7 @@
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -37,6 +37,18 @@
   background-image: none;
   font-size: 6rem;
   padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: ThinPixel7-1Yq0;
+  font-size: 6rem;
+  margin: 1px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: ThinPixel7-1Yq0;
+  font-size: 6rem;
+  margin: 0 auto 34px;
 }
 
 @media (max-width: 1199px) {
@@ -61,6 +73,14 @@
     margin-left: 53px;
     margin-right: 53px;
     width: 284px;
+    font-size: 5rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 5rem;
+  }
+
+  .u-section-1 .u-text-4 {
     font-size: 5rem;
   }
 }
@@ -98,6 +118,15 @@
   .u-section-1 .u-text-2 {
     font-size: 4.800000000000001rem;
   }
+
+  .u-section-1 .u-text-3 {
+    font-size: 4rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-bottom: 0;
+    font-size: 4rem;
+  }
 }
 
 @media (max-width: 575px) {
@@ -116,6 +145,14 @@
 
   .u-section-1 .u-btn-2 {
     font-size: 5.3125rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 3rem;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 209px;
